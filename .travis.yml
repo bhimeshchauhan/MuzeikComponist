@@ -6,3 +6,4 @@ deploy:
  provider: npm
  on:
   tags: true
+script: npm start

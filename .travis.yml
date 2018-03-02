@@ -2,4 +2,4 @@ language: node_js
 nodejs:
  - iojs
  - 7
-scripts: npm start
+script: npm start

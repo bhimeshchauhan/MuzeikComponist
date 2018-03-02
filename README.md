@@ -1,6 +1,5 @@
 
-# Muzëik  Cömpönist
-[![Build Status](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}.png?branch=master)](https://travis-ci.org/bhimeshchauhan/MuzeikComponist)
+# Muzëik  Cömpönist [![Build Status](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}.png?branch=master)](https://travis-ci.org/bhimeshchauhan/MuzeikComponist)
 Musing Composing cna be hard without instruments. Let us help you get back on track with our web app today.
 
 ## Getting Started

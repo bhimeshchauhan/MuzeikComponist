@@ -1,6 +1,6 @@
 
 # Muzëik  Cömpönist [![Build Status](https://travis-ci.org/bhimeshchauhan/MuzeikComponist.svg?branch=master)](https://travis-ci.org/bhimeshchauhan/MuzeikComponist) [![HitCount](http://hits.dwyl.com/{username}/{project-name}.svg)](http://hits.dwyl.com/bhimeshchauhan/MuzeikComponist)
-Musing Composing cna be hard without instruments. Let us help you get back on track with our web app today.
+Musing Composing can be hard without instruments. Let us help you get back on track with our web app today.
 
 ## Getting Started
 

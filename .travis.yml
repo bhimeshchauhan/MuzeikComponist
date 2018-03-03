@@ -1,4 +1,9 @@
 language: node_js
 nodejs:
- - 7
-script: npm start
+ - "stable"
+cache:
+ directories:
+  - node_modules
+script:
+ - npm test
+ - npm run build

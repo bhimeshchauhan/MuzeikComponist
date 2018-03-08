@@ -5,7 +5,9 @@ import App from './clock/App';
 import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(
-    <App />,
+    <div>
+        <App />
+    </div>,
     document.getElementById('root')
 );
 registerServiceWorker();

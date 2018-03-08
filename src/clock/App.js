@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 
-class Clock extends React.Component {
+class App extends React.Component {
     constructor(props) {
         super(props);
         this.state = {date: new Date()};
@@ -34,4 +34,4 @@ class Clock extends React.Component {
     }
 }
 
-export default Clock;
+export default App;

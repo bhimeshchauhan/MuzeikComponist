@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './clock/App';
+import InstrumentPanel from './clock/InstrumentPanel';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(
-        <App />,
+        <InstrumentPanel />,
     document.getElementById('root')
 );
 registerServiceWorker();

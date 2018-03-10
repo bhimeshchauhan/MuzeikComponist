@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56c1542a-5f42-4525-b0c9-88363fe5d634" name="Default" comment="" />
+    <list default="true" id="56c1542a-5f42-4525-b0c9-88363fe5d634" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/clock/App.js" afterPath="$PROJECT_DIR$/src/clock/App.js" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +16,8 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/clock/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="51" column="86" lean-forward="false" selection-start-line="51" selection-start-column="86" selection-end-line="51" selection-end-column="86" />
+            <state relative-caret-position="773">
+              <caret line="99" column="24" lean-forward="false" selection-start-line="99" selection-start-column="24" selection-end-line="99" selection-end-column="24" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -263,12 +265,12 @@
       <updated>1520034163600</updated>
       <workItem from="1520034165377" duration="1004000" />
       <workItem from="1520470762190" duration="9923000" />
-      <workItem from="1520534268848" duration="3616000" />
+      <workItem from="1520534268848" duration="4027000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14543000" />
+    <option name="totallyTimeSpent" value="14954000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -424,8 +426,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/clock/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="51" column="86" lean-forward="false" selection-start-line="51" selection-start-column="86" selection-end-line="51" selection-end-column="86" />
+        <state relative-caret-position="773">
+          <caret line="99" column="24" lean-forward="false" selection-start-line="99" selection-start-column="24" selection-end-line="99" selection-end-column="24" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>

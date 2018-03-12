@@ -1,13 +1,23 @@
 /*@import url('https://fonts.googleapis.com/css?family=Playfair+Display');*/
 
-.container{
+.container, .well{
   padding: 0;
   margin: 0;
 }
 
-.staff{
-  background-color: #000000;
+.staff, .midstaff{
+  padding: 0;
+  margin: 0;
   height: 0.5em;
   width: 100%;
+}
+
+.staff{
+  background-color: #000000;
   border-bottom-color: #000000;
+}
+
+.midstaff{
+  background-color: #ffffff;
+  border-bottom-color: #ffffff;
 }

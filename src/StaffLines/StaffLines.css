@@ -1,0 +1,13 @@
+/*@import url('https://fonts.googleapis.com/css?family=Playfair+Display');*/
+
+.container{
+  padding: 0;
+  margin: 0;
+}
+
+.staff{
+  background-color: #000000;
+  height: 0.5em;
+  width: 100%;
+  border-bottom-color: #000000;
+}
